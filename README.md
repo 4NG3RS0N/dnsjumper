@@ -1,91 +1,81 @@
-🚀 DnsJumper
+# 🚀 DnsJumper
 
-DnsJumper is a lightweight Bash utility that enables Linux users to quickly switch between popular DNS providers directly from the terminal.
+DnsJumper is a lightweight Bash script that allows you to quickly switch between different DNS servers directly from the terminal.
 
-It provides a simple, efficient alternative to navigating graphical network settings, making DNS management fast and convenient.
+Designed for Linux users who want fast control over their DNS configuration without navigating through graphical settings.
 
-✨ Features
+---
 
-🔄 Quickly switch between well-known public DNS providers
+## ✨ Features
 
-🖥 Interactive command-line interface
+- 🔄 Instantly switch between popular DNS providers
+- 🖥 Simple interactive CLI menu
+- ⚡ Quick DNS updates without rebooting
+- 🐧 Built specifically for Linux systems
+- 🧩 Supports custom DNS input
 
-⚡ Apply DNS changes instantly (no reboot required)
+---
 
-🐧 Designed specifically for Linux systems
+## 📦 Supported DNS Providers
 
-🧩 Option to configure custom DNS servers
+- Cloudflare
+- Cloudflare (Malware)
+- Cloudflare (Family)
+- Google DNS
+- Quad9 (Secure)
+- Quad9 (ECS)
+- OpenDNS
+- OpenDNS FamilyShield
+- AdGuard DNS
+- AdGuard Family
+- AdGuard Unfiltered
+- CleanBrowsing Security
+- CleanBrowsing Family
+- CleanBrowsing Adult
+- Comodo Secure DNS
+- DNS.WATCH
+- Verisign Public DNS
+- UncensoredDNS
+- FreeDNS (freeDNS.zone)
+- DNS.SB
+- Neustar Recursive
+- Neustar Threat Protection
+- Neustar Family Secure
+- Level3 DNS (A)
+- Level3 DNS (B)
+- Quad101 (Taiwan)
+- Yandex DNS
+- Zen Internet DNS
 
-📦 Supported DNS Providers
+---
 
-Cloudflare
+## 🛠 Installation
 
-Cloudflare (Malware)
+### 1️⃣ Clone the repository
 
-Cloudflare (Family)
-
-Google DNS
-
-Quad9 (Secure)
-
-Quad9 (ECS)
-
-OpenDNS
-
-OpenDNS FamilyShield
-
-AdGuard DNS
-
-AdGuard Family
-
-AdGuard Unfiltered
-
-CleanBrowsing Security
-
-CleanBrowsing Family
-
-CleanBrowsing Adult
-
-Comodo Secure DNS
-
-DNS.WATCH
-
-Verisign Public DNS
-
-UncensoredDNS
-
-FreeDNS (freeDNS.zone)
-
-DNS.SB
-
-Neustar Recursive
-
-Neustar Threat Protection
-
-Neustar Family Secure
-
-Level3 DNS (A)
-
-Level3 DNS (B)
-
-Quad101 (Taiwan)
-
-Yandex DNS
-
-Zen Internet DNS
-
-🛠 Installation
-1. Clone the repository
+```bash
 git clone https://github.com/4NG3RS0N/dnsjumper.git
 cd dnsjumper
-2. Make the script executable
+```
+### 2️⃣ Make the script executable
+
+```bash
 chmod +x dnsjumper.sh
-3. Run the script
+```
+
+### 3️⃣ Run the script
+
+```bash
 sudo ./dnsjumper.sh
+```
 
-⚠️ Note: Root privileges are required to modify system DNS settings.
+---
 
-📌 Requirements
+## ⚠️ Root privileges are required to modify DNS settings.
+
+---
+
+## 📌🖥 Requirements
 
 Linux-based operating system
 
@@ -93,6 +83,11 @@ Bash shell
 
 Administrative (sudo) privileges
 
-📄 License
+---
 
-Specify your license here (e.g., MIT, GPL-3.0, etc.).
+## 🔎📈 SEO Keywords
+
+Linux DNS changer, Bash DNS switcher, change DNS on Linux, DNS CLI tool, public DNS switcher, Linux network configuration script, terminal DNS manager, open-source DNS tool, DNS management for Linux, switch DNS from terminal.
+
+---
+## Made with ❤️ by 4NG3RS0N
