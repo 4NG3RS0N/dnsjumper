@@ -1,24 +1,20 @@
-🚀 DnsJumper — Linux DNS Changer (Bash CLI Tool)
+🚀 DnsJumper
 
-DnsJumper is a lightweight Bash utility that enables Linux users to quickly switch between popular public DNS providers directly from the terminal.
+DnsJumper is a lightweight Bash utility that enables Linux users to quickly switch between popular DNS providers directly from the terminal.
 
-It provides a fast and efficient alternative to navigating graphical network settings, making DNS management, DNS switching, and network configuration simple and convenient.
-
-DnsJumper is ideal for developers, system administrators, privacy-focused users, and anyone who wants to change DNS servers on Linux using the command line.
+It provides a simple, efficient alternative to navigating graphical network settings, making DNS management fast and convenient.
 
 ✨ Features
 
 🔄 Quickly switch between well-known public DNS providers
 
-🖥 Interactive command-line interface (CLI)
+🖥 Interactive command-line interface
 
 ⚡ Apply DNS changes instantly (no reboot required)
 
 🐧 Designed specifically for Linux systems
 
 🧩 Option to configure custom DNS servers
-
-🚀 Lightweight and dependency-free Bash script
 
 📦 Supported DNS Providers
 
@@ -79,12 +75,12 @@ Yandex DNS
 Zen Internet DNS
 
 🛠 Installation
-1️⃣ Clone the repository
+1. Clone the repository
 git clone https://github.com/4NG3RS0N/dnsjumper.git
 cd dnsjumper
-2️⃣ Make the script executable
+2. Make the script executable
 chmod +x dnsjumper.sh
-3️⃣ Run the script
+3. Run the script
 sudo ./dnsjumper.sh
 
 ⚠️ Note: Root privileges are required to modify system DNS settings.
@@ -97,15 +93,6 @@ Bash shell
 
 Administrative (sudo) privileges
 
-🔎 SEO Keywords
-
-Linux DNS changer, Bash DNS switcher, change DNS on Linux, DNS CLI tool, public DNS switcher, Linux network configuration script, terminal DNS manager, open-source DNS tool, DNS management for Linux, switch DNS from terminal.
-
 📄 License
 
-This project is licensed under the MIT License.
-
-⭐ Support
-
-If you find this project useful, consider giving it a star ⭐ on GitHub.
-It helps increase visibility and motivates further development.
+Specify your license here (e.g., MIT, GPL-3.0, etc.).
