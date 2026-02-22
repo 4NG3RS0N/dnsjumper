@@ -9,7 +9,7 @@ Designed for Linux users who want fast control over their DNS configuration with
 ## ✨ Features
 
 - 🔄 Instantly switch between popular DNS providers
-- 🖥 Simple interactive CLI menu
+- 🖥🖥 Simple interactive CLI menu
 - ⚡ Quick DNS updates without rebooting
 - 🐧 Built specifically for Linux systems
 - 🧩 Supports custom DNS input
