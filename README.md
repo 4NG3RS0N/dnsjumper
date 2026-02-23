@@ -6,7 +6,7 @@ Designed for Linux users who want fast control over their DNS configuration with
 
 ---
 
-## ✨ Features
+# ✨ Features
 
 - 🔄 Instantly switch between popular DNS providers
 - 🖥🖥 Simple interactive CLI menu
@@ -16,7 +16,7 @@ Designed for Linux users who want fast control over their DNS configuration with
 
 ---
 
-## 📦 Supported DNS Providers
+# 📦 Supported DNS Providers
 
 - Cloudflare
 - Cloudflare (Malware)
@@ -49,21 +49,21 @@ Designed for Linux users who want fast control over their DNS configuration with
 
 ---
 
-## 🛠 Installation
+# 🛠 Installation
 
-### 1️⃣ Clone the repository
+## 1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/4NG3RS0N/dnsjumper.git
 cd dnsjumper
 ```
-### 2️⃣ Make the script executable
+## 2️⃣ Make the script executable
 
 ```bash
 chmod +x dnsjumper.sh
 ```
 
-### 3️⃣ Run the script
+## 3️⃣ Run the script
 
 ```bash
 sudo ./dnsjumper.sh
@@ -71,11 +71,11 @@ sudo ./dnsjumper.sh
 
 ---
 
-## ⚠️ Root privileges are required to modify DNS settings.
+# ⚠️ Root privileges are required to modify DNS settings.
 
 ---
 
-## 📌🖥 Requirements
+# 📌🖥 Requirements
 
 Linux-based operating system
 
@@ -85,9 +85,9 @@ Administrative (sudo) privileges
 
 ---
 
-## 🔎📈 SEO Keywords
+# 🔎📈 SEO Keywords
 
 Linux DNS changer, Bash DNS switcher, change DNS on Linux, DNS CLI tool, public DNS switcher, Linux network configuration script, terminal DNS manager, open-source DNS tool, DNS management for Linux, switch DNS from terminal.
 
 ---
-## Made with ❤️ by 4NG3RS0N
+# Made with ❤️ by 4NG3RS0N
