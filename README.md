@@ -77,11 +77,11 @@ sudo ./dnsjumper.sh
 
 # 📌🖥 Requirements
 
+Administrative (sudo) privileges
+
 Linux-based operating system
 
 Bash shell
-
-Administrative (sudo) privileges
 
 ---
 
